@@ -9,7 +9,7 @@
 
 ---
 [PHP project](https://github.com/Mralev/Php-project/tree/master/Final_Project)
-<img src="/images/php-project-1.png"/>
+<img src="/images/php-project-1.jpg"/>
 
 ---
 [WordPress Site](https://detailedtileandflooring.com/)
