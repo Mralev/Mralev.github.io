@@ -13,7 +13,7 @@
 
 ---
 [WordPress Site](https://detailedtileandflooring.com/)
-<img src=""/>
+<img src="/images/WordPress.png"/>
 
 ---
 
