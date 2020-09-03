@@ -4,8 +4,8 @@
 
 ### Category Name 1 
 
-[Project 1 Title](/sample_page)
-<img src=""/>
+[Final Project](https://github.com/Mralev/Capstone-Project)
+This was the final project to complete my AAS degree. I was part of a small team that completed the project.
 
 ---
 [PHP project](https://github.com/Mralev/Php-project/tree/master/Final_Project)
@@ -19,11 +19,9 @@
 
 ### Category Name 2
 
-- [Project 1 Title](http://example.com/)
+- [Final Project](https://github.com/Mralev/Capstone-Project)
 - [PHP Project](https://github.com/Mralev/Php-project/tree/master/Final_Project)
 - [WordPress Site](https://detailedtileandflooring.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
 
 ---
 
