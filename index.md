@@ -8,8 +8,8 @@
 <img src=""/>
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
-<img src=""/>
+[PHP project](https://github.com/Mralev/Php-project/tree/master/Final_Project)
+<img src="/images/php-project.png"/>
 
 ---
 [WordPress Site](https://detailedtileandflooring.com/)
@@ -20,7 +20,7 @@
 ### Category Name 2
 
 - [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
+- [PHP Project](https://github.com/Mralev/Php-project/tree/master/Final_Project)
 - [WordPress Site](https://detailedtileandflooring.com/)
 - [Project 4 Title](http://example.com/)
 - [Project 5 Title](http://example.com/)
